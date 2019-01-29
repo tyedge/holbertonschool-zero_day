@@ -1,2 +1,2 @@
 # holbertonschool-zero_day/0x00-vagrant
-Setting up a Ubuntu VM using Vagrant
+This project is about setting up a Ubuntu VM using Vagrant
